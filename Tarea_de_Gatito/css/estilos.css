@@ -1,0 +1,52 @@
+
+            /* hoja de estilo para ser invocada en cualquier documento */
+            body{
+                /*margin: 0;*/
+            }
+           
+            /*colores de fondo*/
+            .fondorojo{
+                background-color: #e74c3c;
+            }
+            .fondoazul{
+                background-color: #3498db;
+            }
+            .fondomorado{
+                background-color: #9b59b6;
+            }
+            .fondoverde{
+                background-color: #1abc9c;
+            }
+            .fondoamarillo{
+                background-color: #f1c40f;
+            }
+            .fondoblanco{
+                background-color: #ecf0f1;
+            }
+            .fondoesmeralda{
+                background-color: #2ecc71;
+            }
+
+            .transparente{
+                background-color: transparent;
+            }
+
+            
+            /*color de letra*/
+            .letrablanca{
+                color:white;
+            }
+            .letraamarilla{
+                color:yellow;
+            }
+            
+            /*borde para elemento*/
+            .borderojo_puntos{
+                border:5px dashed red;
+            }
+            .bordenegro_solido{
+                border:3px solid black;
+            }
+            .bordeblanco{
+                border:2px solid white;
+            }
