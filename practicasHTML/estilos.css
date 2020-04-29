@@ -1,0 +1,44 @@
+/** colores de fondo */
+.fondoverde{
+    background-color: #0dc528;
+}
+.fondorojo{
+    background-color: rgb(219, 57, 57);
+}
+.fondoazul{
+    background-color: #0575DD;
+}
+.fondomorado{
+    background-color: rgb(162, 33, 185);
+}
+
+/** colores de letra */
+.letrablanca{
+    color: white;
+}
+
+/** tamaño de letra */
+.tamañoletra{
+    font-size: 2em;
+}
+
+/** bordes */
+.bordeblanco{
+    border: 3px solid white;
+}
+
+/** tamaño de recuadro a las orillas */
+.tamañorecuadro{
+    width: 100%;
+    height: 100%;
+}
+.tamañorecuadro1{
+    width: 25%;
+}
+.tamañorecuadro2{
+    width: 30%;
+    height: 300px;
+}
+.tamañorecuadro3{
+    width: 100%;
+}
