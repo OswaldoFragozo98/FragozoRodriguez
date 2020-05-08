@@ -6,16 +6,15 @@
     <title>Suma</title>
 </head>
 <body>
-    <table style="border: 2px solid black" >
-        <form action="">
-            Ingrese el valor del primer numero:
+<br><br>
+        <form action="Resultado.php" align="center">
+            Ingrese el primer numero:
             <input type="text" name="num1" ><br>
-            Ingrese el valor del segundo numero:
+            Ingrese el segundo numero:
             <input type="text" name="num2" ><br>
-            Ingrese el valor del tercer numero:
+            Ingrese el tercer numero:
             <input type="text" name="num3" ><br>
-            <button align="center">Sumar</button>
+            <button>Sumar</button>
         </form>
-</table>
 </body>
 </html>
