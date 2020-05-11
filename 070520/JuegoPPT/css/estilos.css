@@ -15,10 +15,6 @@ table{
 	height: 100%;
 }
 
-.center{
-    text-align: center;
-}
-
 #contenedor{
     min-width: 240x;
     max-width: 50%;
@@ -27,7 +23,7 @@ table{
 }
 
 .menu{
-    background-color:#f0f0f0;
+    background-color: #f0f0f0;
     border: 10px double #33940C;
     width: 100%;
     text-align: center;
@@ -36,7 +32,7 @@ table{
 }
 
 .menu h3{
-    margin-bottom: 1px;
+    margin: 2px;
     font-size: 23px;
 }
 
