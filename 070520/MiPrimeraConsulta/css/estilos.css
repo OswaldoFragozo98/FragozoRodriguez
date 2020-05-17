@@ -1,0 +1,22 @@
+table{
+    border: 1px solid transparent;
+    height: 100%;
+    width: 100%;
+}
+td{
+    border: 2px solid rgb(2, 114, 2); 
+    border-radius: 10px;
+    text-align: center;
+    font-family: 80% arial;
+    font-size: 15px;
+}
+th{
+    border-bottom: 6px solid #0D6C17;
+    background-color: rgba(28, 221, 28, 0.596);
+    border-radius: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+body{
+    background-color: #D5D5D5;
+}
